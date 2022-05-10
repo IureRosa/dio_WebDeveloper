@@ -1,13 +1,6 @@
 <h1 align="center">COVID-19 :bar_chart:</h1>
 
 <p align="center">
-  <a href="https://covid19-pwa.netlify.app/">
-    <img
-      src="https://github.com/lucasrmagalhaes/covid19-react/blob/main/public/dio.gif?raw=true"
-      alt="COVID-19 PWA" 
-    />
-  </a>
-  <br />
   <i>Progressive Web Application com React para mapear os dados do COVID-19 pelo mundo.</i>
 </p>
 
